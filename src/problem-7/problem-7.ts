@@ -7,5 +7,5 @@ class Car {
   }
 }
 
-const car = new Car("Honda", "Civic", 2015);
+const car = new Car("Honda", "Civic", 2017);
 // console.log(car.getCarAge());

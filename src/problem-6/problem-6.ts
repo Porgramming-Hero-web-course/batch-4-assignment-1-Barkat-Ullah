@@ -9,4 +9,4 @@ function updateProfile(profile: Profile, update: PartialProfile) {
 }
 
 const myProfile = { name: "Alice", age: 25, email: "alice@example.com" };
-// console.log(updateProfile(myProfile, { age: 89 }));
+// console.log(updateProfile(myProfile, { age: 9 }));
